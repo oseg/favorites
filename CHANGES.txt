@@ -1,0 +1,6 @@
+Version history
+===============
+
+1.0 (2017-04-10):
+
+- import favorites widget feature from widget manager commit: https://github.com/ColdTrick/widget_manager/commit/2cf3f81142a05331ade0fda08c1cf699296ab76b
