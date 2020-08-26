@@ -1,0 +1,7 @@
+{
+    "name": "dcmt/favorites",
+    "type": "elgg-plugin",
+    "require": {
+        "composer/installers": ">=1.0.8"
+    }
+}
