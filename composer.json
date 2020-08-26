@@ -1,5 +1,5 @@
 {
-    "name": "dcmt/favorites",
+    "name": "symplace/favorites",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": ">=1.0.8"
