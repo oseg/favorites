@@ -29,7 +29,5 @@ if ($entities) {
 	echo elgg_format_element('ul', ['class' => 'elgg-list'], $list_items);
 	
 } else {
-	echo elgg_echo('notfound');
-	echo '<br /><br />';
 	echo elgg_echo('widgets:favorites:content:more_info');
 }
