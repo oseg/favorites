@@ -1,11 +1,11 @@
 Favorites plugin for Elgg 2.0
 =============================
 
-Latest Version: 1.0  
-Released: 2017-04-10  
-Contact: oseg@noos.fr  
+Latest Version: 1.0.1  
+Released: 2020-09-02  
+Contact: olivier.seguin@sym.place  
 License: GNU General Public License version 2  
-Copyright: ColdTrick IT Solutions 2012-2016, Arttic 2017
+Copyright: ColdTrick IT Solutions 2012-2016, SymPlace 2017-2020
 
 
 Description
